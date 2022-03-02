@@ -22,7 +22,7 @@ Con la suma de los conocimientos adquiridos en el curso React se procede a la co
 
 ------------
 ### Persistencia de datos
-La persistencia de datos de los productos (descripción, imágenes y stock) es relizada mediante el uso de la plataforma Firebase. De esta plataforma se utiiliza Firestore Database es el contenedor de datos y el modulo de Storage para almacenar las imagenes correspondientes.
+La persistencia de datos de los productos (descripción, imágenes y stock) es relizada mediante el uso de la plataforma Firebase. De la misma se utiiliza Firestore Database como el contenedor de datos y el modulo de Storage para almacenar las imágenes correspondientes.
 
 ------------
 ### Captura del proceso de compra
