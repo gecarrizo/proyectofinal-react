@@ -1,4 +1,4 @@
-![](./images/logoMarca.png)
+![](images/logoMarca.png)
 
 # ZONA MATERIAL
 ------------
